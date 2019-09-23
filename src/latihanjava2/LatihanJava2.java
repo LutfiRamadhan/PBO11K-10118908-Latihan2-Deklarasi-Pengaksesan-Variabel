@@ -8,6 +8,9 @@ package latihanjava2;
 /**
  *
  * @author lutfi
+ * NAMA  : LUTFI RAMADHAN
+ * NIM   : 10118908
+ * KELAS : IF 11 Karyawan
  */
 public class LatihanJava2 {
 
